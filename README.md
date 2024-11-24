@@ -1,4 +1,4 @@
-# Nashville Housing Data
+# Nashville Housing Analysis
 
 This project focuses on cleaning and transforming a dataset related to housing in Nashville. The data cleaning process involves standardizing formats, handling missing data, breaking down and restructuring fields, removing duplicates, and preparing the data for analysis.
 
